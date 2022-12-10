@@ -20,4 +20,7 @@
 
 - Requirements to run this script : python package: colored
 
-- to install run in your terminal : pip install colored
+- to install colored run in your terminal : pip install colored
+
+- to run the script go to the file directory where you have clone or extract the files and run this command : python3 unit_converter.py
+( or just double-click on the unit_converter.py )
