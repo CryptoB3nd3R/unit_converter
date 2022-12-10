@@ -1,6 +1,6 @@
 #/usr/bin/python
 
-# author: cryptoBender
+# author: cryptoB3nD3R
 
 import os
 import colored
