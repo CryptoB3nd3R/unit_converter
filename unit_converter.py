@@ -65,7 +65,7 @@ def menu():
         print("ERROR: you must choose between 1 and 6")
 
     while True:
-        #deamnder les valeur a convertir
+        # ask value to convert
         if choice == "1":
             if ask_and_display_conver("inch", "cm", 2.54):
                 break
