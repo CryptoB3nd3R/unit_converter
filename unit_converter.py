@@ -73,10 +73,10 @@ def menu():
             if ask_and_display_conver("cm", "inch", 0.394):
                 break
         if choice == "3":
-            if ask_and_display_conver("feet", "m", 3.280):
+            if ask_and_display_conver("feet", "m", 0.3048):
                 break
         if choice == "4":
-            if ask_and_display_conver("m", "feet", 0.3048):
+            if ask_and_display_conver("m", "feet", 3.280):
                 break
         if choice == "5":
             if ask_and_display_conver("inch", "feet", 0.0833333):
